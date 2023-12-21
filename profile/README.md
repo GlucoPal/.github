@@ -1,4 +1,5 @@
 # GlucoPal : Apps for Calculating Glycemic Load from Nutrition Facts
+![Slide 16_9 - 1](https://github.com/GlucoPal/.github/assets/87638112/fc2f99e2-3670-4826-a800-986cacc5b196)
 
 ## Project Documents
 - [x] **Project Brief** : To Be Added
