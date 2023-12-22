@@ -15,9 +15,7 @@ GlucoPal is a user-friendly application designed as a loyal companion for homema
 4. Make informed choices for healthier grocery shopping.
 
 ## Project Documents
-- [x] **Project Brief** : Coming Soon
-- [x] **Go-To Market** : Coming Soon
-- [x] **Final presentation** : Coming Soon
+- [x] **Final presentation** :[GlucoPal](https://youtu.be/GzTEGNSNVAQ) 
 
 ## Capstone Project Team
 | Member-ID | Name  | Learning Path |
