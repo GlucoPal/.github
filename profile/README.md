@@ -1,5 +1,5 @@
 # GlucoPal : Apps for Calculating Glycemic Load from Nutrition Facts
-![Slide 16_9 - 1](https://github.com/GlucoPal/.github/assets/87638112/fc2f99e2-3670-4826-a800-986cacc5b196)
+![Slide 16_9 - 1 (1)](https://github.com/GlucoPal/.github/assets/87638112/12bb089e-9757-4fc3-a3eb-bf1b88dc46a1)
 
 GlucoPal is a user-friendly application designed as a loyal companion for homemakers. It aims to assist users in discovering healthy grocery products by providing comprehensive nutritional information. By simply scanning the nutritional information on product packaging, GlucoPal not only displays essential details about the product's nutrition but also calculates and presents information about the glycemic index and glycemic load.
 
